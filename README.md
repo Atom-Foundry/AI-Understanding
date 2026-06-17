@@ -45,4 +45,13 @@ https://atomfoundry.dev/framework/ai-understanding
 
 AI Understanding™ is part of the AI Commerce Intelligence Framework™, a research initiative exploring how AI systems discover, understand, trust, recommend, and route customers to businesses.
 
+## Position Within The AI Commerce Graph™
+
+AI Understanding™ builds on AI Readability™ and measures how accurately AI systems understand products, brands, and commerce entities.
+
+The framework is part of the AI Commerce Graph™.
+
+Learn more:
+https://github.com/Atom-Foundry/AI-Commerce-Graph
+
 Created by Atom Foundry.
